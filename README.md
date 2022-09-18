@@ -11,5 +11,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like pizza.
 --------------------------------------------------
 
-![pexels-zetong-li-13572662](https://user-images.githubusercontent.com/66895274/190886370-4907f5ca-e41f-437f-806c-3f2b62408760.jpg)
-
+![pexels-riccardo-bertolo-4245826](https://user-images.githubusercontent.com/66895274/190886497-b3948738-ee9a-43bc-84b9-7b2454322286.jpg)
