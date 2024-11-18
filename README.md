@@ -26,8 +26,8 @@ Welcome to my GitHub profile! I am a passionate software developer who loves to 
 
 ## 📣 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/allendry-roque-diaz-info/)
-- Personal Website: [yourwebsite.com](https://allendryport.netlify.app)
+- LinkedIn: [Allendry](https://www.linkedin.com/in/allendry-roque-diaz-info/)
+- Personal Website: [allendryport.netlify.app](https://allendryport.netlify.app)
 
 
 
