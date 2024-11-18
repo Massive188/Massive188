@@ -9,6 +9,9 @@ Welcome to my GitHub profile! I am a passionate software developer who loves to 
 ![Languages](https://img.shields.io/badge/Languages-HTML-E34F26?style=flat&logo=html5)
 ![Languages](https://img.shields.io/badge/Languages-CSS-1572B6?style=flat&logo=css3)
 ![Tools](https://img.shields.io/badge/Tools-Git-F05032?style=flat&logo=git)
+![Tools](https://img.shields.io/badge/Tools-Figma-F24E1E?style=flat&logo=figma)
+![Tools](https://img.shields.io/badge/Tools-Blender-F5792A?style=flat&logo=blender)
+
 
 ## 📈 GitHub Stats
 
