@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Allendry 👋
 
 Welcome to my GitHub profile! I am a passionate software developer who loves to code and collaborate on open-source projects.
 
@@ -14,21 +14,20 @@ Welcome to my GitHub profile! I am a passionate software developer who loves to 
 
 ### My GitHub Activity
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Massive188&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ### Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Massive188&layout=compact&theme=radical)
 
 ### My Commits Activity
 
-![GitHub Commit Activity](https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&theme=react&area=true)
+![GitHub Commit Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Massive188&theme=react&area=true)
 
 ## 📣 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin)
-- Twitter: [Your Twitter Handle](https://twitter.com/your-twitter)
-- Personal Website: [yourwebsite.com](https://yourwebsite.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/allendry-roque-diaz-info/)
+- Personal Website: [yourwebsite.com](https://allendryport.netlify.app)
 
 
 
