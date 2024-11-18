@@ -20,9 +20,6 @@ Welcome to my GitHub profile! I am a passionate software developer who loves to 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Massive188&layout=compact&theme=radical)
 
-### My Commits Activity
-
-![GitHub Commit Activity](https://github-readme-activity-graph.cyclic.app/graph?username=git@github.com:Massive188/TicTacToe-Board-WIP-.git&theme=react&area=true)
 
 ## 📣 Let's Connect
 
