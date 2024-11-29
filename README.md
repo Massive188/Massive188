@@ -1,6 +1,7 @@
 # Hello, I'm Allendry 👋
 
-Welcome to my GitHub profile! I am a passionate software developer who loves to code and collaborate on open-source projects.
+Welcome to my GitHub profile! I am a passionate software developer who loves to code and collaborate on open-source projects. 
+I have experience with little bit of everything including database, frontend, backend and api. 
 
 ## 🔧 Languages & Tools I Use
 
