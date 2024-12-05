@@ -9,7 +9,6 @@ I have experience with little bit of everything including database, frontend, ba
 ![Languages](https://img.shields.io/badge/Languages-JavaScript-yellow?style=flat&logo=javascript)
 ![Languages](https://img.shields.io/badge/Languages-HTML-E34F26?style=flat&logo=html5)
 ![Languages](https://img.shields.io/badge/Languages-CSS-1572B6?style=flat&logo=css3)
-![Languages](https://img.shields.io/badge/Languages-CSS-1572B6?style=flat&logo=css3)
 ![Framework](https://img.shields.io/badge/Tools-Git-F05032?style=flat&logo=vue)
 ![Tools](https://img.shields.io/badge/Tools-Figma-F24E1E?style=flat&logo=figma)
 ![Tools](https://img.shields.io/badge/Tools-Blender-F5792A?style=flat&logo=blender)
