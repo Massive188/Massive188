@@ -1,4 +1,4 @@
-# Hello, I'm Allendry 👋
+# Hello, I'm Allen 👋
 
 Welcome to my GitHub profile! I am a passionate software developer who loves to code and collaborate on open-source projects. 
 I have experience with little bit of everything including database, frontend, backend and api. 
