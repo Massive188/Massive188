@@ -23,6 +23,8 @@ I have experience with little bit of everything including database, frontend, ba
 ### Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Massive188&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Massive188&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Massive188&layout=compact&theme=radical)
 
 
 ## 📣 Let's Connect
